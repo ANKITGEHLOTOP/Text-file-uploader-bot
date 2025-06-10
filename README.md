@@ -2,7 +2,8 @@
 
 ## Commands
 
-> /start - Start the Bot.  
+> /start - Start the Bot.
+> /upload - upload TXT File
 > /stop - Stop the Bot.  
 > /help - To get help for using this bot.
 
